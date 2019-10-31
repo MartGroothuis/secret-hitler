@@ -1,0 +1,34 @@
+TODO:
+president select bugfix
+javascript mooier maken
+
+
+Mart: In beeld brengen of mensen gestemt hebben.
+Mart: Wat was de stem? Show stem
+Mart: Bij lobby moet er laten zien worden of de game al gestart is. En hoeveel mensen er in zitten.
+
+
+Mylan: Het moet duidelijker worden wie wat is.
+
+
+Dylan: Aan het einde van een game info wie er gewonnen hebben.
+Dylan: Einde van een game. Iedereen laten zien wie elkaar was.
+
+
+Done:
+Mylan: I'm ready knop moet weg als de game is gestart.
+
+Mart: Nee gefixt moeten worden omdat er nu een bug in zit.
+Mart: Election trekker moet verbetered worden.
+
+Dylan: Je stemt op een persoon om cancelier te worden.
+
+
+
+1. win colum aanmaken in room
+2. als fasisten of liberalen winnen dit aanpassen naar 1 of 0
+3. de win colum megeven in playercontroller
+4. javacript update als win dan laat balke zien met wie er gewonnen heeft
+
+Semi Done:
+Mylan: Discard moet omgedraait worden.

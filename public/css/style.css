@@ -1,0 +1,57 @@
+.red-background{
+    background-color: #f2644b;
+}
+
+.liberalcard{
+    background-image: url("/images/cards/liberalp-l.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.fascistcard{
+    background-image:  url("/images/cards/fascistp-l.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.electionimg{
+    background-image:  url("/images/lizard.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.liberaltrack, .fascisttrack56, .electiontrack{
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+}
+.electiontrack{
+    margin-top: 12%;
+
+}
+.election{
+    margin: 7%;
+}
+
+.electioncontainer{
+    margin: 13% 31% 13% 29.5%;
+}
+.fascisttrack56{
+    top: 50%;
+}
+
+.fascisttrack56 > div {
+    margin: 7%;
+}
+
+.liberaltrack > div {
+    margin: 7% 14%;
+
+}
+.fascisttrack56 > div > div, .liberaltrack > div > div {
+    margin: .5%;
+
+}
+
+
